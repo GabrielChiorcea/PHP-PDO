@@ -2,7 +2,7 @@
 
 $host = '176.126.172.208';
 $user = 'gabi_remo';
-$password = 'Eva1Japo2';
+$password = '//////';
 $database = 'gabi_remote';
 
 $mysqli = new mysqli($host, $user, $password, $database); 
